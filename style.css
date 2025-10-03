@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #fff;
+  font-family: system-ui, Helvetica;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+}
